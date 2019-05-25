@@ -74,11 +74,6 @@
             <div style="border-bottom: 1px dashed #000;"></div>
             <br>
 
-            <img src="{{ url('/data_file/'.$p->file) }}">
-
-
-
-
 
 
     <!-- Optional JavaScript -->
