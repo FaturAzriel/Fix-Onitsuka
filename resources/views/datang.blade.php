@@ -15,7 +15,7 @@
 
     <div class="container text-center mt-5">
         <h1 class="display-4">ONITSUKA.ID</h1>
-            <a href="detail-product" class="btn btn-outline-dark">INPUT ALAMAT</a>
+            <a href="http://input-alamat.herokuapp.com/detail-product" class="btn btn-outline-dark">INPUT ALAMAT</a>
         <h3></h3>
     </div>
 
